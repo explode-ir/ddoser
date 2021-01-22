@@ -5,7 +5,9 @@ this script has been created by 🥀explode-ir🥀
 unziping => cd ddosmon => mkdir build && cd build => cmake .. => make
 
 # use 
-optional, I usually run this inside a screen session screen sudo ./build/ddosmon configs/example.lua
+optional, I usually run this inside a screen session screen
+
+ sudo ./build/ddoser configs/example.lua
 
 # Configurations
 You can find and edit these configuration for you needs inside configs/home.lua
